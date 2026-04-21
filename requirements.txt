@@ -1,0 +1,5 @@
+# requirements.txt
+ultralytics
+opencv-python
+pytesseract
+numpy
